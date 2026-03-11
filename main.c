@@ -6,5 +6,6 @@ int main()
 	printf("Devansh Patel\n");
 	printf("Darsh Kelaiya\n");
 	printf("Kripal Zala\n");
+	printf("Parth Kansara\n");
 	return 0;
 }
