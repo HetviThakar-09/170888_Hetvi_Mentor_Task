@@ -7,5 +7,6 @@ int main()
 	printf("Darsh Kelaiya\n");
 	printf("Kripal Zala\n");
 	printf("Parth Kansara\n");
+	printf("Preet Shah\n");
 	return 0;
-}
+} 
